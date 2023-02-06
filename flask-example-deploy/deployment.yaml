@@ -18,5 +18,5 @@ spec:
         app: flask
     spec:
       containers:
-      - image: seunghoonpaek/flask-example
+      - image: seunghoonpaek/flask-example:latest
         name: flask-example
